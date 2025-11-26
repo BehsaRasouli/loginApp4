@@ -7,7 +7,6 @@ namespace loginApp
         //made pas and name :
         private string name = "adminbehsa";
         private string pas = "12345678";
-        // test
 
         public Form1()
         {
