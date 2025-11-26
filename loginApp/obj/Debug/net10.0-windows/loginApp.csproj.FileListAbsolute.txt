@@ -1,0 +1,16 @@
+C:\Users\Behsa\source\repos\my project github\loginApp\loginApp\bin\Debug\net10.0-windows\loginApp.exe
+C:\Users\Behsa\source\repos\my project github\loginApp\loginApp\bin\Debug\net10.0-windows\loginApp.deps.json
+C:\Users\Behsa\source\repos\my project github\loginApp\loginApp\bin\Debug\net10.0-windows\loginApp.runtimeconfig.json
+C:\Users\Behsa\source\repos\my project github\loginApp\loginApp\bin\Debug\net10.0-windows\loginApp.dll
+C:\Users\Behsa\source\repos\my project github\loginApp\loginApp\bin\Debug\net10.0-windows\loginApp.pdb
+C:\Users\Behsa\source\repos\my project github\loginApp\loginApp\obj\Debug\net10.0-windows\loginApp.Form1.resources
+C:\Users\Behsa\source\repos\my project github\loginApp\loginApp\obj\Debug\net10.0-windows\loginApp.csproj.GenerateResource.cache
+C:\Users\Behsa\source\repos\my project github\loginApp\loginApp\obj\Debug\net10.0-windows\loginApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Behsa\source\repos\my project github\loginApp\loginApp\obj\Debug\net10.0-windows\loginApp.AssemblyInfoInputs.cache
+C:\Users\Behsa\source\repos\my project github\loginApp\loginApp\obj\Debug\net10.0-windows\loginApp.AssemblyInfo.cs
+C:\Users\Behsa\source\repos\my project github\loginApp\loginApp\obj\Debug\net10.0-windows\loginApp.csproj.CoreCompileInputs.cache
+C:\Users\Behsa\source\repos\my project github\loginApp\loginApp\obj\Debug\net10.0-windows\loginApp.dll
+C:\Users\Behsa\source\repos\my project github\loginApp\loginApp\obj\Debug\net10.0-windows\refint\loginApp.dll
+C:\Users\Behsa\source\repos\my project github\loginApp\loginApp\obj\Debug\net10.0-windows\loginApp.pdb
+C:\Users\Behsa\source\repos\my project github\loginApp\loginApp\obj\Debug\net10.0-windows\loginApp.genruntimeconfig.cache
+C:\Users\Behsa\source\repos\my project github\loginApp\loginApp\obj\Debug\net10.0-windows\ref\loginApp.dll
